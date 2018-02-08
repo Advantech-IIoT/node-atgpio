@@ -1,0 +1,23 @@
+{
+  "name": "node-atgpio",
+  "version": "0.2.3",
+  "description": "Advantech IIoT GPIO module",
+  "main": "atgpio.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "GPIO", "Advantech", "IIoT"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Advantech-IIoT/node-atgpio"
+  },
+  "author": "Zhirong.Hsu",
+  "license": "Apache-2.0",
+  "devDependencies": {
+    "eslint": "^3.19.0",
+    "eslint-config-airbnb-base": "^11.2.0",
+    "eslint-plugin-import": "^2.7.0"
+  }
+}
