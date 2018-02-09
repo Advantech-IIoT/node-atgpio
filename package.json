@@ -1,6 +1,6 @@
 {
   "name": "node-atgpio",
-  "version": "0.2.3",
+  "version": "0.2.4",
   "description": "Advantech IIoT GPIO module",
   "main": "atgpio.js",
   "scripts": {
