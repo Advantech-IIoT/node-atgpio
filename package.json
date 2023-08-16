@@ -1,6 +1,6 @@
 {
   "name": "node-atgpio",
-  "version": "1.0.0",
+  "version": "3.0.1",
   "description": "Advantech IIoT GPIO module",
   "main": "bin/atgpio.js",
   "scripts": {
@@ -11,11 +11,13 @@
     "Advantech",
     "IIoT"
   ],
-  "engines" : { "node" : ">=10.0.0 <11.0.0" },
   "repository": {
     "type": "git",
     "url": "https://github.com/Advantech-IIoT/node-atgpio"
   },
   "author": "Zhirong.Hsu",
-  "license": "Apache-2.0"
+  "license": "Apache-2.0",
+  "dependencies": {
+    "node-addon-api": "^5.0.0"
+  }
 }
